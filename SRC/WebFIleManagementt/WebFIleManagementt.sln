@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFIleManagementt", "WebFIleManagementt\WebFIleManagementt.csproj", "{76B7BA09-A454-4D84-A83F-3DF2549A18DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFIleManagementt.Service", "WebFIleManagementt.Service\WebFIleManagementt.Service.csproj", "{AF07D8C3-D525-44AB-B055-3512575C357E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFIleManagementt.StorageBroker", "WebFIleManagementt.StorageBroker\WebFIleManagementt.StorageBroker.csproj", "{6A31C6CC-CB3C-4BB9-9E18-C25CEA3743EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{76B7BA09-A454-4D84-A83F-3DF2549A18DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76B7BA09-A454-4D84-A83F-3DF2549A18DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76B7BA09-A454-4D84-A83F-3DF2549A18DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF07D8C3-D525-44AB-B055-3512575C357E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF07D8C3-D525-44AB-B055-3512575C357E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF07D8C3-D525-44AB-B055-3512575C357E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF07D8C3-D525-44AB-B055-3512575C357E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A31C6CC-CB3C-4BB9-9E18-C25CEA3743EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A31C6CC-CB3C-4BB9-9E18-C25CEA3743EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A31C6CC-CB3C-4BB9-9E18-C25CEA3743EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A31C6CC-CB3C-4BB9-9E18-C25CEA3743EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
