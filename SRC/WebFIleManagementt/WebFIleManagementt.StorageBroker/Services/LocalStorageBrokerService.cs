@@ -1,6 +1,6 @@
 ﻿namespace WebFIleManagementt.StorageBroker.Services;
 
-public interface StroageBroker
+public class LocalStorageBrokerService
 {
-    // sd
+
 }
