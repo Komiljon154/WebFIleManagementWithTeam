@@ -1,4 +1,4 @@
-namespace WebFIleManagementt
+namespace WebFileManagement.Server
 {
     public class WeatherForecast
     {
